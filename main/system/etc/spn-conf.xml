@@ -34,6 +34,9 @@
 		numeric="25001"
 		spn="МТС"/>
 	<spnOverride
+		numeric="25002"
+		spn="МегаФон"/>	
+	<spnOverride
 		numeric="25050"
 		spn="МТС"/>
 	<spnOverride
