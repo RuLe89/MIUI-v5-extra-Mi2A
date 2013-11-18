@@ -1,0 +1,29 @@
+{
+  "localId": "clock_centered",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/clock/clock_centered.mtz",
+  "metaPath": "/system/media/theme/.data/meta/clock_2x4/clock_centered.mrm",
+  "contentPath": "/system/media/theme/.data/content/clock_2x4/clock_centered.mrc",
+  "hash": "3D0511D50C4FFE4F1738E299C6BDA2B2963E84E0",
+  "size": 62568,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "По центру",
+  "description": null,
+  "author": "DriffeX",
+  "designer": "MIUI",
+  "version": "1.0",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_centered/preview_clock_0.jpg"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_centered/preview_clock_0.jpg"
+  ],
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}
